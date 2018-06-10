@@ -14,4 +14,4 @@ This is a repository of add-on tools for blender 3D which I use.
 536Tools tab is located in ToolShelf in Edit-Mode only.
 
 ## Adjust 3D Cursor
-This tool adjust 3D Cursor to the coordinates of selected vertex while ArmatureModifier enabled.
+This tool adjust 3D Cursor to the coordinates of selected vertex while ArmatureModifier enabled if you edited mouse operation.
